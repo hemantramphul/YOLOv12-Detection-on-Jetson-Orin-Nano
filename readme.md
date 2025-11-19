@@ -2,6 +2,8 @@
 
 This project runs **Ultralytics YOLOv12** on a **Jetson Orin Nano Developer Kit** using a **MIPI CSI camera (imx477)** with a **pure GStreamer pipeline** (no OpenCV GStreamer support required).
 
+![demo](assets/demo.png)
+
 ---
 
 ## 1. Jetson Environment
